@@ -12,6 +12,7 @@ Python Boilerplate contains all the boilerplate you need to create a Python pack
 ```{toctree}
 :maxdepth: 2
 :caption: Contents:
+
 installation
 usage
 api
